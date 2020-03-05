@@ -4,7 +4,7 @@
 
 注意：答案中不可以包含重复的三元组。
 
-示例：
+**示例**：
 
 给定数组 nums = [-1, 0, 1, 2, -1, -4]，
 
@@ -59,7 +59,5 @@ class Solution {
 }
 ```
 
-
-
 > Reference  
-https://leetcode-cn.com/problems/3sum/solution/san-shu-zhi-he-javajian-ji-ti-jie-by-wang-zi-hao-z/
+> https://leetcode-cn.com/problems/3sum/solution/san-shu-zhi-he-javajian-ji-ti-jie-by-wang-zi-hao-z/
