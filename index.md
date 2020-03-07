@@ -7,6 +7,7 @@ LeetCode算法基础练习(2020.3.01 - 2020.3.30)
 - [三数之和](https://edlison.github.io/leetcode/threesum)
 - [最接近的三数之和](https://edlison.github.io/leetcode/mostclose)
 - [买卖股票的最佳时机](https://edlison.github.io/leetcode/buystock)
+- [合并两个有序链表](https://edlison.github.io/leetcode/mergelist)
 
 LearnNote
 - [设计模式](https://edlison.github.io/learn/design-pattern)
