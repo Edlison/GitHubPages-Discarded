@@ -14,3 +14,4 @@ LearnNote
 - [设计模式](https://edlison.github.io/learn/design-pattern)
 - [AOP](https://edlison.github.io/learn/aop)
 - [IOC](https://edlison.github.io/learn/ioc)
+- [Implements & Extends](learn/implements-extends.md)
