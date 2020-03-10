@@ -1,6 +1,6 @@
 # Index
 
-LeetCode算法基础练习(2020.3.01 - 2020.3.30)
+### LeetCode算法基础练习(2020.3.01 - 2020.3.30)
 - [两数之和](leetcode/twosum)
 - [删除重复项](leetcode/deleteduplicates)
 - [移除元素](leetcode/removeelements)
@@ -11,8 +11,13 @@ LeetCode算法基础练习(2020.3.01 - 2020.3.30)
 - [删除排序链表中的重复元素](leetcode/deletelistduplicates)
 - [环形链表](leetcode/hascycle)
 
-LearnNote
+### LearnNote
 - [设计模式](learn/design-pattern)
 - [AOP](learn/aop)
 - [IOC](learn/ioc)
 - [Implements & Extends](learn/implements-extends)
+
+### Motto
+```
+"Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine."     -Imitation Game
+```
