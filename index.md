@@ -10,6 +10,7 @@
 - [合并两个有序链表](leetcode/mergelist)
 - [删除排序链表中的重复元素](leetcode/deletelistduplicates)
 - [环形链表](leetcode/hascycle)
+- [两数相加](leetcode/addtwolist)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
