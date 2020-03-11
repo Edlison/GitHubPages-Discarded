@@ -18,6 +18,9 @@
 - [AOP](learn/aop)
 - [IOC](learn/ioc)
 - [Implements & Extends](learn/implements-extends)
+- [Static](learn/static)
+- [Final](learn/final)
+- [Innerclass](learn/innerclass)
 
 ### Motto
 ```
