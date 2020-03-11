@@ -11,6 +11,7 @@
 - [删除排序链表中的重复元素](leetcode/deletelistduplicates)
 - [环形链表](leetcode/hascycle)
 - [两数相加](leetcode/addtwolist)
+- [删除倒数第N个结点](leetcode/removeend)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
