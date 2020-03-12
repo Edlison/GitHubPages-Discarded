@@ -12,6 +12,7 @@
 - [环形链表](leetcode/hascycle)
 - [两数相加](leetcode/addtwolist)
 - [删除倒数第N个结点](leetcode/removeend)
+- [合并K个排序链表](leetcode/mergeklist)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
