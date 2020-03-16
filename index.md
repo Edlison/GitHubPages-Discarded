@@ -16,6 +16,7 @@
 - [罗马数字转整数](leetcode/romantointeger)
 - [最长公共前缀](leetcode/maxpublicex)
 - [有效括号](leetcode/validparentheses)
+- [无重复字符的最长字串](leetcode/longestsubstring)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
