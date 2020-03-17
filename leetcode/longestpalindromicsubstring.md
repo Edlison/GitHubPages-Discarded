@@ -12,6 +12,8 @@ Note: "aba" is also a valid answer.
 Input: "cbbd"
 Output: "bb"
 
+![img](../static/img/dp.png)
+
 ```java
 public class Solution {
 
