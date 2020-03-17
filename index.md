@@ -17,6 +17,7 @@
 - [最长公共前缀](leetcode/maxpublicex)
 - [有效括号](leetcode/validparentheses)
 - [无重复字符的最长字串](leetcode/longestsubstring)
+- [最长回文子串](leetcode/longestpalindromicsubstring)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
