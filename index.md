@@ -26,9 +26,9 @@
 - [[Java]IOC](learn/ioc)
 - [[Java]Implements & Extends](learn/implements-extends)
 - [[Java]Static](learn/static)
-- [[java]Final](learn/final)
-- [[java]Innerclass](learn/innerclass)
-- [[linux]User](learn/linux-user)
+- [[Java]Final](learn/final)
+- [[Java]Innerclass](learn/innerclass)
+- [[Linux]User](learn/linux-user)
 
 ### Motto
 ```
