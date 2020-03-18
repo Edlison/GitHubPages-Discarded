@@ -18,15 +18,17 @@
 - [有效括号](leetcode/validparentheses)
 - [无重复字符的最长字串](leetcode/longestsubstring)
 - [最长回文子串](leetcode/longestpalindromicsubstring)
+- [正则表达式匹配](leetcode/regularexpressionmatching)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
-- [AOP](learn/aop)
-- [IOC](learn/ioc)
-- [Implements & Extends](learn/implements-extends)
-- [Static](learn/static)
-- [Final](learn/final)
-- [Innerclass](learn/innerclass)
+- [[Java]AOP](learn/aop)
+- [[Java]IOC](learn/ioc)
+- [[Java]Implements & Extends](learn/implements-extends)
+- [[Java]Static](learn/static)
+- [[java]Final](learn/final)
+- [[java]Innerclass](learn/innerclass)
+- [[linux]User](learn/linux-user)
 
 ### Motto
 ```
