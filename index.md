@@ -21,6 +21,7 @@
 - [正则表达式匹配](leetcode/regularexpressionmatching)
 - [相同的树](leetcode/sametree)
 - [对称二叉树](leetcode/symmetric)
+- [二叉树的最大深度](leetcode/maxdepth)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
