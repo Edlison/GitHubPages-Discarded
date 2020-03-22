@@ -22,6 +22,7 @@
 - [相同的树](leetcode/sametree)
 - [对称二叉树](leetcode/symmetric)
 - [二叉树的最大深度](leetcode/maxdepth)
+- [二叉树中序遍历](leetcode/inordertraversal)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
