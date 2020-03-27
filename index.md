@@ -27,6 +27,7 @@
 - [恢复二叉搜索树](leetcode/recoverbinarytree)
 - [买股票的最佳时机II](leetcode/buystockii)
 - [判断子序列](leetcode/substring)
+- [分发饼干](leetcode/delivercookies)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
