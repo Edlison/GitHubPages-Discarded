@@ -30,6 +30,7 @@
 - [分发饼干](leetcode/delivercookies)
 - [跳跃游戏](leetcode/jumpgame)
 - [加油站](leetcode/gasstation)
+- [通配符匹配](leetcode/matching)
 
 ### LearnNote
 - [设计模式](learn/design-pattern)
